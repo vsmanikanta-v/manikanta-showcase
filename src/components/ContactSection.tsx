@@ -72,7 +72,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <p className="font-medium">Location</p>
-                  <p className="text-muted-foreground">San Francisco, CA</p>
+                  <p className="text-muted-foreground">Kakinada,533468</p>
                 </div>
               </div>
             </div>
