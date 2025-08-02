@@ -52,7 +52,7 @@ const HeroSection = () => {
           
           <div className="flex justify-center space-x-6">
             <a 
-              href="https://github.com" 
+              href="https://github.com/vsmanikanta-v" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-secondary hover:bg-primary/20 transition-all duration-300 hover:scale-110"
