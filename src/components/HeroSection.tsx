@@ -21,7 +21,7 @@ const HeroSection = () => {
       <div className="container mx-auto px-6 relative z-10">
         <div className="text-center animate-fade-in">
           <Badge variant="secondary" className="mb-6 px-4 py-2 text-sm">
-            Full Stack Developer
+            
           </Badge>
           
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-primary bg-clip-text text-transparent">
