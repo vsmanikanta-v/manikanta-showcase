@@ -22,10 +22,7 @@ const AboutSection = () => {
               </p>
               
               <p className="text-lg text-muted-foreground mb-6">
-                When I'm not coding, you'll find me exploring new technologies, 
-                contributing to open-source projects, or mentoring aspiring developers.
-                I believe in writing clean, maintainable code and creating user 
-                experiences that make a difference.
+               
               </p>
               
               <p className="text-lg text-muted-foreground">
