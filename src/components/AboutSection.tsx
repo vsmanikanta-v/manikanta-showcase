@@ -18,9 +18,7 @@ const AboutSection = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="animate-slide-in">
               <p className="text-lg text-muted-foreground mb-6">
-                I'm a passionate full-stack developer with over 5 years of experience 
-                building scalable web applications and leading development teams. 
-                I specialize in modern JavaScript frameworks and cloud technologies.
+               I'm VS Manikanta, a passionate fresher skilled in [key skills, e.g., Python, graphic design, or digital marketing], eager to deliver innovative solutions. My portfolio showcases  projects, designs, or analyses built through academic projects or internships reflecting my creativity and technical expertise. Explore my work, and let's connect to create something impactful together!
               </p>
               
               <p className="text-lg text-muted-foreground mb-6">
