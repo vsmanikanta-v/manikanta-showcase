@@ -32,7 +32,7 @@ const ProjectsSection = () => {
     {
       title: "WaterWizard IoTap",
       description: "Constructed WaterWizard IoTap, an IoT-based smart water tap system that optimizes usage and minimizes waste using sensors and microcontroller logic.",
-      technologies: ["Arduino IDE", "C/C++", "Arduino Uno ", "Infrared Sensor"],
+      technologies: ["Arduino IDE", "C/C++", "Arduino Uno ", "Infrared sensor"],
       github: "https://github.com",
       live: "https://demo.com",
       featured: false
