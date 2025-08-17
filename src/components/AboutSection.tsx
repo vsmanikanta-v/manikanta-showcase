@@ -21,9 +21,8 @@ const AboutSection = () => {
                I'm VS Manikanta, a passionate fresher skilled in Python, Web full stack, Cloud Technologies, Machine learning and digital marketing, eager to deliver innovative solutions. My portfolio showcases  projects, designs,internships analyses built through academic course Works and internships reflecting my creativity and technical expertise. Explore my work, and let's connect to create something impactful together!
               </p>
               
-              <p className="text-lg text-muted-foreground mb-6">
+            
                
-              </p>
               
               <p className="text-lg text-muted-foreground">
                 Currently focused on building innovative solutions that solve 
