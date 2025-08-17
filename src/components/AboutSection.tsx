@@ -18,16 +18,11 @@ const AboutSection = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="animate-slide-in">
               <p className="text-lg text-muted-foreground mb-6">
-               I'm VS Manikanta, a passionate fresher skilled in Python, Web full stack, Cloud Technologies, Machine learning and digital marketing, eager to deliver innovative solutions. My portfolio showcases  projects, designs,internships analyses built through academic course Works and internships reflecting my creativity and technical expertise. Explore my work, and let's connect to create something impactful together!
-              </p>
-              
-            
-               
-              
-              <p className="text-lg text-muted-foreground">
-                Currently focused on building innovative solutions that solve 
+               I'm VS Manikanta, a passionate fresher skilled in Python, Web full stack, Cloud Technologies, Machine learning and digital marketing, eager to deliver innovative solutions. My portfolio showcases  projects, designs,internships analyses built through academic course Works and internships reflecting my creativity and technical expertise. Explore my work, and let's connect to create something impactful together!. Currently focused on building innovative solutions that solve 
                 real-world problems and drive business growth.
               </p>
+        
+             
             </div>
             
             <Card className="bg-gradient-card border-border/50 animate-fade-in">
