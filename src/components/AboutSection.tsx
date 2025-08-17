@@ -3,8 +3,8 @@ import { Badge } from "@/components/ui/badge";
 
 const AboutSection = () => {
   const skills = [
-    "React", "TypeScript", "Node.js", "Python", "AWS", "Docker",
-    "PostgreSQL", "MongoDB", "GraphQL", "Next.js", "Tailwind CSS", "Git"
+    "Python", "c", "Data Structures", "HTML", "CSS", "Docker",
+    "MYsql", "MongoDB", "machine Learning", "JSON", "GIT", "GitHub"
   ];
 
   return (
