@@ -6,33 +6,41 @@ import { ExternalLink, Github } from "lucide-react";
 const ProjectsSection = () => {
   const projects = [
     {
-      title: "E-Commerce Platform",
-      description: "A full-stack e-commerce solution with real-time inventory management, payment processing, and admin dashboard.",
-      technologies: ["React", "Node.js", "PostgreSQL", "Stripe API"],
+      title: "Virtual Gesture Interface (VGI)",
+      description: "VGI is a real-time gesture control system that lets users interact with digital environments without touch..",
+      technologies: ["Python", "computer vision", "Mediapipe", " Pyautogui","Math"],
       github: "https://github.com",
       live: "https://demo.com",
       featured: true
     },
     {
-      title: "Task Management App",
-      description: "Collaborative project management tool with real-time updates, file sharing, and team communication features.",
-      technologies: ["Next.js", "TypeScript", "MongoDB", "Socket.io"],
+      title: "Water Quality Prediction",
+      description: "A machine learning model that predicts water quality by analyzing key parameters, helping classify sources and support real-time environmental monitoring.",
+      technologies: ["Python", "Pandas", "NumPY", "Scikit", "Random Forest"],
       github: "https://github.com",
       live: "https://demo.com",
       featured: true
     },
     {
-      title: "Weather Analytics Dashboard",
-      description: "Data visualization dashboard that processes weather data from multiple APIs and provides insights through interactive charts.",
-      technologies: ["React", "D3.js", "Python", "AWS Lambda"],
+      title: "Movie Searching App",
+      description: "Built a React movie search app using the OMDB API with real-time results, detailed info, Favorites list, responsive UI, and robust error handling.",
+      technologies: ["HTML", "CSS", "JavaScript", "React.js "],
       github: "https://github.com",
       live: "https://demo.com",
       featured: false
     },
     {
-      title: "AI Content Generator",
-      description: "Machine learning powered tool that generates marketing content using natural language processing and GPT integration.",
-      technologies: ["Python", "FastAPI", "OpenAI API", "Docker"],
+      title: "WaterWizard IoTap",
+      description: "Constructed WaterWizard IoTap, an IoT-based smart water tap system that optimizes usage and minimizes waste using sensors and microcontroller logic.",
+      technologies: ["Arduino IDE", "C/C++", "Arduino Uno ", "Infrared Sensor"],
+      github: "https://github.com",
+      live: "https://demo.com",
+      featured: false
+    },
+    {
+      title: "Optical character Recognition",
+      description: "Deployed an OCR system to extract text from images and documents, enabling fast digitization, improved accessibility, and editable text conversion.",
+      technologies: ["Python ", "Pytesseract", "Streamlit", "PIL"],
       github: "https://github.com",
       live: "https://demo.com",
       featured: false
