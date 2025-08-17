@@ -1,12 +1,14 @@
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Github, Linkedin, Mail, ArrowDown } from "lucide-react";
-import heroImage from "@/assets/hero-bg.jpg";
 
 const HeroSection = () => {
   const scrollToSection = (sectionId: string) => {
     document.getElementById(sectionId)?.scrollIntoView({ behavior: 'smooth' });
   };
+
+  // ✅ Use public image path instead of import
+  const heroImage = "/portfolio.jpg";
 
   return (
     <section className="min-h-screen flex items-center justify-center relative overflow-hidden bg-gradient-hero">
