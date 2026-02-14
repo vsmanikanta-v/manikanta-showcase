@@ -85,7 +85,7 @@ const ContactSection = () => {
             <CardContent>
               <form onSubmit={handleSubmit} className="space-y-4">
                 <Input
-                  placeholder="Your Name"
+                  placeholder="VS MANIKANTA_VASIREDDY"
                   name="name"
                   value={formData.name}
                   onChange={handleChange}
@@ -93,7 +93,7 @@ const ContactSection = () => {
                 />
                 <Input
                   type="email"
-                  placeholder="Your Email"
+                  placeholder="saimanikantavasireddy@gmail.com"
                   name="email"
                   value={formData.email}
                   onChange={handleChange}
